@@ -1,0 +1,1202 @@
+[
+ {
+   "id": 94,
+   "god": "achilles",
+   "pantheon": "greek",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "27.02.2018"
+ },
+ {
+   "id": 1,
+   "god": "agni",
+   "pantheon": "hindu",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 45,
+   "god": "ah muzen cab",
+   "pantheon": "maya",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "average",
+   "release date": "07.11.2013"
+ },
+ {
+   "id": 65,
+   "god": "ah puch",
+   "pantheon": "maya",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "28.04.2015"
+ },
+ {
+   "id": 72,
+   "god": "amaterasu",
+   "pantheon": "japanese",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "12.01.2016"
+ },
+ {
+   "id": 20,
+   "god": "anhur",
+   "pantheon": "egyptian",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "average",
+   "release date": "03.08.2012"
+ },
+ {
+   "id": 2,
+   "god": "anubis",
+   "pantheon": "egyptian",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "easy",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 60,
+   "god": "ao kuang",
+   "pantheon": "chinese",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "19.11.2014"
+ },
+ {
+   "id": 32,
+   "god": "aphrodite",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "13.03.2013"
+ },
+ {
+   "id": 33,
+   "god": "apollo",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "easy",
+   "release date": "28.03.2013"
+ },
+ {
+   "id": 3,
+   "god": "arachne",
+   "pantheon": "greek",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 23,
+   "god": "ares",
+   "pantheon": "greek",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "easy",
+   "release date": "04.10.2012"
+ },
+ {
+   "id": 4,
+   "god": "artemis",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "average",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 90,
+   "god": "artio",
+   "pantheon": "celtic",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "01.08.2017"
+ },
+ {
+   "id": 37,
+   "god": "athena",
+   "pantheon": "greek",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "easy",
+   "release date": "05.06.2013"
+ },
+ {
+   "id": 118,
+   "god": "atlas",
+   "pantheon": "greek",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "easy",
+   "release date": "14.12.2021"
+ },
+ {
+   "id": 61,
+   "god": "awilix",
+   "pantheon": "maya",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "hard",
+   "release date": "17.12.2014"
+ },
+ {
+   "id": 109,
+   "god": "baba yaga",
+   "pantheon": "slavic",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "21.04.2020"
+ },
+ {
+   "id": 26,
+   "god": "bacchus",
+   "pantheon": "roman",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "19.11.2012"
+ },
+ {
+   "id": 19,
+   "god": "bakasura",
+   "pantheon": "hindu",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "easy",
+   "release date": "20.07.2012"
+ },
+ {
+   "id": 96,
+   "god": "baron samedi",
+   "pantheon": "voodoo",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "26.06.2018"
+ },
+ {
+   "id": 5,
+   "god": "bastet",
+   "pantheon": "egyptian",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "easy",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 63,
+   "god": "bellona",
+   "pantheon": "roman",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "25.02.2015"
+ },
+ {
+   "id": 57,
+   "god": "cabrakan",
+   "pantheon": "maya",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "19.08.2014"
+ },
+ {
+   "id": 81,
+   "god": "camazotz",
+   "pantheon": "maya",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "11.10.2016"
+ },
+ {
+   "id": 93,
+   "god": "cerberus",
+   "pantheon": "greek",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "easy",
+   "release date": "09.01.2018"
+ },
+ {
+   "id": 86,
+   "god": "cernunnos",
+   "pantheon": "celtic",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "average",
+   "release date": "14.03.2017"
+ },
+ {
+   "id": 47,
+   "god": "chaac",
+   "pantheon": "maya",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "18.12.2013"
+ },
+ {
+   "id": 39,
+   "god": "chang'e",
+   "pantheon": "chinese",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "24.07.2013"
+ },
+ {
+   "id": 116,
+   "god": "charybdis",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "average",
+   "release date": "24.08.2021"
+ },
+ {
+   "id": 95,
+   "god": "chernobog",
+   "pantheon": "slavic",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "hard",
+   "release date": "15.05.2018"
+ },
+ {
+   "id": 71,
+   "god": "chiron",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "easy",
+   "release date": "17.11.2015"
+ },
+ {
+   "id": 38,
+   "god": "chronos",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "10.07.2013"
+ },
+ {
+   "id": 117,
+   "god": "cliodhna",
+   "pantheon": "celtic",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "19.10.2021"
+ },
+ {
+   "id": 110,
+   "god": "cthulhu",
+   "pantheon": "great old ones",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "16.06.2020"
+ },
+ {
+   "id": 89,
+   "god": "cu chulainn",
+   "pantheon": "celtic",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "20.06.2017"
+ },
+ {
+   "id": 21,
+   "god": "cupid",
+   "pantheon": "roman",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "easy",
+   "release date": "17.08.2012"
+ },
+ {
+   "id": 88,
+   "god": "da ji",
+   "pantheon": "chinese",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "24.05.2017"
+ },
+ {
+   "id": 112,
+   "god": "danzaburou",
+   "pantheon": "japanese",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "average",
+   "release date": "15.12.2020"
+ },
+ {
+   "id": 92,
+   "god": "discordia",
+   "pantheon": "roman",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "06.11.2017"
+ },
+ {
+   "id": 78,
+   "god": "erlang shen",
+   "pantheon": "chinese",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "06.07.2016"
+ },
+ {
+   "id": 36,
+   "god": "eset",
+   "pantheon": "egyptian",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "15.05.2013"
+ },
+ {
+   "id": 77,
+   "god": "fafnir",
+   "pantheon": "norse",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "07.06.2016"
+ },
+ {
+   "id": 35,
+   "god": "fenrir",
+   "pantheon": "norse",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "01.05.2013"
+ },
+ {
+   "id": 24,
+   "god": "freya",
+   "pantheon": "norse",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "18.10.2012"
+ },
+ {
+   "id": 87,
+   "god": "ganesha",
+   "pantheon": "hindu",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "25.04.2017"
+ },
+ {
+   "id": 48,
+   "god": "geb",
+   "pantheon": "egyptian",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "16.01.2014"
+ },
+ {
+   "id": 114,
+   "god": "gilgamesh",
+   "pantheon": "babylonian",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "20.04.2021"
+ },
+ {
+   "id": 18,
+   "god": "guan yu",
+   "pantheon": "chinese",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "29.06.2012"
+ },
+ {
+   "id": 91,
+   "god": "hachiman",
+   "pantheon": "japanese",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "easy",
+   "release date": "13.09.2017"
+ },
+ {
+   "id": 6,
+   "god": "hades",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "easy",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 7,
+   "god": "he bo",
+   "pantheon": "chinese",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "easy",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 107,
+   "god": "heimdallr",
+   "pantheon": "norse",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "hard",
+   "release date": "11.12.2019"
+ },
+ {
+   "id": 8,
+   "god": "hel",
+   "pantheon": "norse",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 98,
+   "god": "hera",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "15.10.2018"
+ },
+ {
+   "id": 28,
+   "god": "hercules",
+   "pantheon": "roman",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "easy",
+   "release date": "09.01.2013"
+ },
+ {
+   "id": 102,
+   "god": "horus",
+   "pantheon": "egyptian",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "30.04.2019"
+ },
+ {
+   "id": 62,
+   "god": "hou yi",
+   "pantheon": "chinese",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "hard",
+   "release date": "14.01.2015"
+ },
+ {
+   "id": 9,
+   "god": "hun batz",
+   "pantheon": "maya",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "easy",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 80,
+   "god": "izanami",
+   "pantheon": "japanese",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "average",
+   "release date": "30.08.2016"
+ },
+ {
+   "id": 54,
+   "god": "janus",
+   "pantheon": "roman",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "28.05.2014"
+ },
+ {
+   "id": 75,
+   "god": "jing wei",
+   "pantheon": "chinese",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "easy",
+   "release date": "12.04.2016"
+ },
+ {
+   "id": 101,
+   "god": "jormungandr",
+   "pantheon": "norse",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "05.03.2019"
+ },
+ {
+   "id": 10,
+   "god": "kali",
+   "pantheon": "hindu",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 68,
+   "god": "khepri",
+   "pantheon": "egyptian",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "04.08.2015"
+ },
+ {
+   "id": 99,
+   "god": "king arthur",
+   "pantheon": "arthurian",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "07.01.2019"
+ },
+ {
+   "id": 11,
+   "god": "kukulkan",
+   "pantheon": "maya",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "easy",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 52,
+   "god": "kumbhakarna",
+   "pantheon": "hindu",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "easy",
+   "release date": "16.04.2014"
+ },
+ {
+   "id": 85,
+   "god": "kuzenbo",
+   "pantheon": "japanese",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "easy",
+   "release date": "14.02.2017"
+ },
+ {
+   "id": 25,
+   "god": "loki",
+   "pantheon": "norse",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "easy",
+   "release date": "02.11.2012"
+ },
+ {
+   "id": 64,
+   "god": "medusa",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "easy",
+   "release date": "01.04.2015"
+ },
+ {
+   "id": 43,
+   "god": "mercury",
+   "pantheon": "roman",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "02.10.2013"
+ },
+ {
+   "id": 100,
+   "god": "merlin",
+   "pantheon": "arthurian",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "11.02.2019"
+ },
+ {
+   "id": 115,
+   "god": "morgan le fay",
+   "pantheon": "arthurian",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "15.06.2021"
+ },
+ {
+   "id": 108,
+   "god": "mulan",
+   "pantheon": "chinese",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "25.02.2020"
+ },
+ {
+   "id": 34,
+   "god": "ne zha",
+   "pantheon": "chinese",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "17.04.2013"
+ },
+ {
+   "id": 30,
+   "god": "neith",
+   "pantheon": "egyptian",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "easy",
+   "release date": "13.02.2013"
+ },
+ {
+   "id": 49,
+   "god": "nemesis",
+   "pantheon": "greek",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "06.02.2014"
+ },
+ {
+   "id": 83,
+   "god": "nike",
+   "pantheon": "greek",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "easy",
+   "release date": "06.12.2016"
+ },
+ {
+   "id": 59,
+   "god": "nox",
+   "pantheon": "roman",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "29.10.2014"
+ },
+ {
+   "id": 46,
+   "god": "nu wa",
+   "pantheon": "chinese",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "easy",
+   "release date": "05.12.2013"
+ },
+ {
+   "id": 12,
+   "god": "odin",
+   "pantheon": "norse",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "easy",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 104,
+   "god": "olorun",
+   "pantheon": "yoruba",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "25.06.2019"
+ },
+ {
+   "id": 53,
+   "god": "osiris",
+   "pantheon": "egyptian",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "hard",
+   "release date": "06.05.2014"
+ },
+ {
+   "id": 97,
+   "god": "pele",
+   "pantheon": "polynesian",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "06.08.2018"
+ },
+ {
+   "id": 105,
+   "god": "persephone",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "20.08.2019"
+ },
+ {
+   "id": 31,
+   "god": "poseidon",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "easy",
+   "release date": "28.02.2013"
+ },
+ {
+   "id": 13,
+   "god": "ra",
+   "pantheon": "egyptian",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 73,
+   "god": "raijin",
+   "pantheon": "japanese",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "16.02.2016"
+ },
+ {
+   "id": 55,
+   "god": "rama",
+   "pantheon": "hindu",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "average",
+   "release date": "24.06.2014"
+ },
+ {
+   "id": 66,
+   "god": "ratatoskr",
+   "pantheon": "norse",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "easy",
+   "release date": "02.06.2015"
+ },
+ {
+   "id": 67,
+   "god": "ravana",
+   "pantheon": "hindu",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "30.06.2015"
+ },
+ {
+   "id": 50,
+   "god": "scylla",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "easy",
+   "release date": "05.03.2014"
+ },
+ {
+   "id": 56,
+   "god": "serqet",
+   "pantheon": "egyptian",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "15.07.2014"
+ },
+ {
+   "id": 103,
+   "god": "set",
+   "pantheon": "egyptian",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "30.04.2019"
+ },
+ {
+   "id": 119,
+   "god": "shiva",
+   "pantheon": "hindu",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "22.02.2022"
+ },
+ {
+   "id": 74,
+   "god": "skadi",
+   "pantheon": "norse",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "hard",
+   "release date": "15.03.2016"
+ },
+ {
+   "id": 14,
+   "god": "sobek",
+   "pantheon": "egyptian",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "easy",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 70,
+   "god": "sol",
+   "pantheon": "norse",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "06.10.2015"
+ },
+ {
+   "id": 44,
+   "god": "sun wukong",
+   "pantheon": "chinese",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "23.10.2013"
+ },
+ {
+   "id": 76,
+   "god": "susano",
+   "pantheon": "japanese",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "hard",
+   "release date": "10.05.2016"
+ },
+ {
+   "id": 58,
+   "god": "sylvanus",
+   "pantheon": "roman",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "01.10.2014"
+ },
+ {
+   "id": 79,
+   "god": "terra",
+   "pantheon": "roman",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "hard",
+   "release date": "02.08.2016"
+ },
+ {
+   "id": 42,
+   "god": "thanatos",
+   "pantheon": "greek",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "18.09.2013"
+ },
+ {
+   "id": 84,
+   "god": "the morrigan",
+   "pantheon": "celtic",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "very hard",
+   "release date": "10.01.2017"
+ },
+ {
+   "id": 22,
+   "god": "thor",
+   "pantheon": "norse",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "hard",
+   "release date": "06.09.2012"
+ },
+ {
+   "id": 82,
+   "god": "thoth",
+   "pantheon": "egyptian",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "08.11.2016"
+ },
+ {
+   "id": 113,
+   "god": "tiamat",
+   "pantheon": "babylonian",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "hard",
+   "release date": "23.02.2021"
+ },
+ {
+   "id": 111,
+   "god": "tsukuyomi",
+   "pantheon": "japanese",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "assassin",
+   "difficulty": "average",
+   "release date": "11.08.2020"
+ },
+ {
+   "id": 40,
+   "god": "tyr",
+   "pantheon": "norse",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "hard",
+   "release date": "07.08.2013"
+ },
+ {
+   "id": 51,
+   "god": "ullr",
+   "pantheon": "norse",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "hard",
+   "release date": "19.03.2014"
+ },
+ {
+   "id": 15,
+   "god": "vamana",
+   "pantheon": "hindu",
+   "attack type": "melee",
+   "power type": "physical",
+   "class": "warrior",
+   "difficulty": "average",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 29,
+   "god": "vulcan",
+   "pantheon": "roman",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "30.01.2013"
+ },
+ {
+   "id": 27,
+   "god": "xbalanque",
+   "pantheon": "maya",
+   "attack type": "ranged",
+   "power type": "physical",
+   "class": "hunter",
+   "difficulty": "average",
+   "release date": "21.12.2012"
+ },
+ {
+   "id": 69,
+   "god": "xing tian",
+   "pantheon": "chinese",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "01.09.2015"
+ },
+ {
+   "id": 106,
+   "god": "yemoja",
+   "pantheon": "yoruba",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "average",
+   "release date": "15.10.2019"
+ },
+ {
+   "id": 16,
+   "god": "ymir",
+   "pantheon": "norse",
+   "attack type": "melee",
+   "power type": "magical",
+   "class": "guardian",
+   "difficulty": "easy",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 120,
+   "god": "yu huang",
+   "pantheon": "chinese",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "19.04.2022"
+ },
+ {
+   "id": 17,
+   "god": "zeus",
+   "pantheon": "greek",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "average",
+   "release date": "31.05.2012"
+ },
+ {
+   "id": 41,
+   "god": "zhong kui",
+   "pantheon": "chinese",
+   "attack type": "ranged",
+   "power type": "magical",
+   "class": "mage",
+   "difficulty": "easy",
+   "release date": "28.08.2013"
+ }
+]
